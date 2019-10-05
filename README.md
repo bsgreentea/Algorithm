@@ -1,3 +1,3 @@
 # Algorithm
 
-머지 소트 추가하기
+append merge sort
